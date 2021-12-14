@@ -1,2 +1,6 @@
 # NYPD-Complaints-Data-Visualization
 ## This Repository is for the Project for CS-GY 6313 Information Visualization at NEW YORK UNIVERSITY titled New York Police Department Complaints Data Visualization and Prediction.
+
+***
+## ABSTRACT:
+### The New York Police Department (NYPD) is the preliminary law enforcement agency in the City of New York which was established on 23rd May 1845. The NYPD manages all the New York City and with its vast population, the crime rate of the city is one of the major concerns for the NYPD. With the crimes happening all around the New York City, it is important to keep the record of all the data and create informatic and engaging visualization to effectively learn the crime pattern of the New York City so that constructive measures can be implemented to prevent the crimes in the city. The crimes are mainly classified in three categories namely Felony, Misdemeanor and Violation. It is important to implement the use of machines and try to form the strategies to prevent crimes. In this report I have tried to shed some light on some valuable insights from the explanatory visualizations and machine learning models. The model were trained on the data and compelling accuracy matrix was established. 
