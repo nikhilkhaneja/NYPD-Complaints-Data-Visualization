@@ -1,2 +1,2 @@
 # NYPD-Complaints-Data-Visualization
-New York Police Department Complaints Data Visualization and Prediction. The data contains over more than 7 million rows with over 35 features such as Complaint Type, Date, Geo Location of the crime, Suspect’s, and Victim’s attributes and many more.
+This Repository is for the Project for CS-GY 6313 Information Visualization at NEW YORK UNIVERSITY titled ### New York Police Department Complaints Data Visualization and Prediction.
