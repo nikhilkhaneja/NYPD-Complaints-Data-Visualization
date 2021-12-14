@@ -8,5 +8,6 @@
 ***
 ## DATA SOURCE:
 ### NYC OPEN DATA - NYPD COMPLAINTS DATA HISTORIC:
-  The data used for this project is titled NYPD Complaints Data Historic and was obtained from the New York City Open Data. NYC Open Data is free public data published by New York City agencies and other partners. This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) from 2006 to the end of 2020. 
-  The data contains over more than 7 million rows with over 35 features such as Complaint Type, Date, Geo Location of the crime, Suspect’s, and Victim’s attributes and many more. A detailed description of the data is mentioned below.
+  ▫️ The data used for this project is titled NYPD Complaints Data Historic and was obtained from the New York City Open Data. NYC Open Data is free public data published by New York City agencies and other partners. This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) from 2006 to the end of 2020. 
+  
+  ▫️ The data contains over more than 7 million rows with over 35 features such as Complaint Type, Date, Geo Location of the crime, Suspect’s, and Victim’s attributes and many more. A detailed description of the data is mentioned below.
